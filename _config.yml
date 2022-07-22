@@ -20,8 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: happy_tjdus@naver.com
+      link: mailto:happy_tjdus@naver.com
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
