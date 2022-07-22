@@ -11,7 +11,7 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: Fado
       slug: /
     - name: Work
     - name: Blog
@@ -20,11 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: happy_tjdus@naver.com
+      link: mailto:happy_tjdus@naver.com
   follow:
     - name: Twitter
       link: http://twitter.com/YourTwitterUsername
