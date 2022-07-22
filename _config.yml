@@ -23,9 +23,6 @@ footer:
       value: happy_tjdus@naver.com
       link: mailto:happy_tjdus@naver.com
 
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
 
   follow:
     - name: Twitter
