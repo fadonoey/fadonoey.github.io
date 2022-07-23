@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Midwinter Days
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  웹 개발 공부하는 블로그
 baseurl: "" # the subpath of the site
 url: "https://fadonoey.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -25,19 +25,12 @@ footer:
 
 
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+    - name: Instagram
+      link: https://www.instagram.com/daisydreamn/
+      username: "@daisydreamn"
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/fadonoey
+
 
 # Build settings
 markdown: kramdown
