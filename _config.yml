@@ -9,6 +9,7 @@ url: "https://fadonoey.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
+futrue: true
 header:
   pages:
     - name: About Me
